@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpForBeginners", "CsharpForBeginners\CsharpForBeginners.csproj", "{C1979298-CDC4-444D-958B-13E758AEB3FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderPerformance", "StringBuilderPerformance\StringBuilderPerformance.csproj", "{8CCB3CF9-B437-43D4-8F89-D6F4A2E40A52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBuilderPerformance", "StringBuilderPerformance\StringBuilderPerformance.csproj", "{8CCB3CF9-B437-43D4-8F89-D6F4A2E40A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryGetValue", "TryGetValue\TryGetValue.csproj", "{F8E09707-3AEA-4EC9-8CE0-4C715EBA4625}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8CCB3CF9-B437-43D4-8F89-D6F4A2E40A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CCB3CF9-B437-43D4-8F89-D6F4A2E40A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CCB3CF9-B437-43D4-8F89-D6F4A2E40A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E09707-3AEA-4EC9-8CE0-4C715EBA4625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E09707-3AEA-4EC9-8CE0-4C715EBA4625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E09707-3AEA-4EC9-8CE0-4C715EBA4625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E09707-3AEA-4EC9-8CE0-4C715EBA4625}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
