@@ -14,8 +14,7 @@ namespace TryGetValue
 
             int value = 0;
 
-            // ContainsKey()
-            /*
+            // ContainsKey()            
             if (dictionaryTest.ContainsKey("third") == true)
             {
                 value = dictionaryTest["third"];
@@ -25,8 +24,7 @@ namespace TryGetValue
             {
                 Console.WriteLine("Key = \"third\" is not found.");
             }
-            */
-
+            
             // TryGetValue()            
             if (dictionaryTest.TryGetValue("third", out value))
             {
